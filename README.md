@@ -7,3 +7,9 @@
 
 # 다운로드 시
 ### 녹색 버튼 (Code)를 눌러 Download Zip 클릭 후 원하는 폴더를 선택하여 세이브 파일 다운로드
+
+## 특정 폴더만 다운 받고 싶을 때
+
+### https://minhaskamal.github.io/DownGit/#/home
+
+### 위 링크 홈페이지를 통해 특정 세이브 파일 폴더 링크를 복붙하여 다운
